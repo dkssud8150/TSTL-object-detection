@@ -1,25 +1,25 @@
 # 초기 모델
 
 - boxloss
-<img src="./assets/boxloss.png">
+<img src="../dataloader/assets/boxloss.png">
 
 - clsloss
-<img src="./assets/clsloss.png">
+<img src="../dataloader/assets/clsloss.png">
 
 - latency
-<img src="./assets/latency.png">
+<img src="../dataloader/assets/latency.png">
 
 - learning rate
-<img src="./assets/lr.png">
+<img src="../dataloader/assets/lr.png">
 
 - objectness loss
-<img src="./assets/objloss.png">
+<img src="../dataloader/assets/objloss.png">
 
 - total loss
-<img src="./assets/totalloss.png">
+<img src="../dataloader/assets/totalloss.png">
 
 - evaluation
-<img src="./assets/evaluation.png">
+<img src="../dataloader/assets/evaluation.png">
 
 <br>
 
